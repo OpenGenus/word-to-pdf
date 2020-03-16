@@ -1,0 +1,20 @@
+{
+  "name": "online_converter",
+  "version": "1.0.0",
+  "description": "An online application to convert word document to pdf",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "express"
+  ],
+  "author": "Sharmaprateek52",
+  "license": "ISC",
+  "dependencies": {
+    "docx-pdf": "0.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6"
+  }
+}
